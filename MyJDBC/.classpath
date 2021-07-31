@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/vipin/Downloads/req_spring-4jar/req_spring-4jar/org-apache-commons-logging.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vipin/Downloads/req_spring-4jar/req_spring-4jar/spring-aop-4.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vipin/Downloads/req_spring-4jar/req_spring-4jar/spring-aspects-4.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vipin/Downloads/req_spring-4jar/req_spring-4jar/spring-beans-4.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vipin/Downloads/req_spring-4jar/req_spring-4jar/spring-build-src-4.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vipin/Downloads/req_spring-4jar/req_spring-4jar/spring-context-4.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vipin/Downloads/req_spring-4jar/req_spring-4jar/spring-context-support-4.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vipin/Downloads/req_spring-4jar/req_spring-4jar/spring-core-4.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vipin/Downloads/req_spring-4jar/req_spring-4jar/spring-expression-4.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vipin/Downloads/req_spring-4jar/req_spring-4jar/spring-framework-bom-4.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vipin/Downloads/req_spring-4jar/req_spring-4jar/spring-instrument-4.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vipin/Downloads/req_spring-4jar/req_spring-4jar/spring-instrument-tomcat-4.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vipin/Downloads/req_spring-4jar/req_spring-4jar/spring-jdbc-4.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vipin/Downloads/req_spring-4jar/req_spring-4jar/spring-jms-4.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vipin/Downloads/req_spring-4jar/req_spring-4jar/spring-messaging-4.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vipin/Downloads/req_spring-4jar/req_spring-4jar/spring-orm-4.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vipin/Downloads/req_spring-4jar/req_spring-4jar/spring-oxm-4.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vipin/Downloads/req_spring-4jar/req_spring-4jar/spring-test-4.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vipin/Downloads/req_spring-4jar/req_spring-4jar/spring-tx-4.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vipin/Downloads/req_spring-4jar/req_spring-4jar/spring-web-4.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vipin/Downloads/req_spring-4jar/req_spring-4jar/spring-webmvc-4.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vipin/Downloads/req_spring-4jar/req_spring-4jar/spring-webmvc-portlet-4.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vipin/Downloads/req_spring-4jar/req_spring-4jar/spring-websocket-4.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vipin/Downloads/mysql-connector-java-5.1.23-bin.jar/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/vipin/Downloads/org.springframework.transaction-3.0.0.release.jar/org.springframework.transaction-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
